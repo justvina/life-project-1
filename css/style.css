@@ -5,11 +5,16 @@
 }
 
 body {
-  background-color: lightgray;
+  background-color: lightgrey;
+}
+
+h5 {
+  text-align: center;
+  margin-top: 3rem;
 }
 
 .b-display {
-  padding: 2rem;
+  padding: 1rem;
   align-items: center;
   justify-content: center;
 }
